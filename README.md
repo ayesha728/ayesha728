@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149367258.jpg)]
+
 <h1 align="center">Hi 👋, I'm Ayesha Ahmed</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif"
